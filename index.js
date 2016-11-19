@@ -1,3 +1,4 @@
+"use strict";
 const bolt = require('firebase-bolt');
 const SimpleBoltSchema = require('./lib/SimpleBoltSchema.js');
 const renderTypeScript = require('./lib/renderTypeScript.js');
